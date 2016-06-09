@@ -17,6 +17,9 @@ int main(int argc,char** argv)
 
   //set up
 
+  //input loop that loops until the player inputs something that tells their
+  //character to move or whatever
+
   //game logic
 
   //display

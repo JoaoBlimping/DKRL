@@ -17,10 +17,4 @@ struct Map
 /** creates an empty map of a set width and height */
 struct Map* Map_createBlankMap(int width,int height);
 
-
-
-
-
-
-
 #endif

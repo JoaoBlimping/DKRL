@@ -2,6 +2,9 @@
 #define VISUALIZER_H
 
 
+#include "Map.h"
+
+
 /** initialises the Visualizer since it will be using SDL */
 void Visualizer_init();
 
